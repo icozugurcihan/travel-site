@@ -1,5 +1,5 @@
 import throttle from 'lodash/throttle'
-import { debounce } from 'lodash/debounce'
+import debounce from 'lodash/debounce'
  
 class RevealOnScroll {
   constructor(els, thresholdPercent) {
