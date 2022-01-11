@@ -7,6 +7,10 @@ body{
     color: #333;
 }
 
+footer {
+    background-color: $mainBlue;
+}
+
 img{
     max-width: 100%;
     height: auto;
